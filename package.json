@@ -1,6 +1,6 @@
 {
   "name": "store",
-  "hompepage": "https://Rolandsonn.github.io/React-shop-project",
+  "homepage": "https://Rolandsonn.github.io/React-shop-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
